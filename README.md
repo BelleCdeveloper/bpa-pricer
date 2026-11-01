@@ -1,6 +1,6 @@
 # BPA Pricer
 
-![CI](https://github.com/bbBelle1101/bpa-pricer/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/BelleCdeveloper/bpa-pricer/actions/workflows/ci.yml/badge.svg)
 
 An illustrative full-stack prototype that prices a bulk purchase annuity (BPA) for a small set of pension scheme members. Built to demonstrate pensions domain knowledge alongside Python, React and DevOps practice.
 
