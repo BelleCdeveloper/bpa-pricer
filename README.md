@@ -5,6 +5,8 @@
 An illustrative full-stack prototype that prices a bulk purchase annuity (BPA) for a small set of pension scheme members. Built to demonstrate pensions domain knowledge alongside Python, React and DevOps practice.
 
 > **Prototype only.** It uses synthetic members and a made-up mortality basis. It is not a real quote or actuarial advice.
+![Pricer screenshot](docs/pricer.png)
+![Cashflow chart](docs/chart.png)
 
 ## What it does
 - Takes member ages and annual pensions plus discount rate, inflation and a mortality adjustment
